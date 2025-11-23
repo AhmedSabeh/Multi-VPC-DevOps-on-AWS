@@ -15,13 +15,6 @@ This project demonstrates a **production-style Multi-VPC DevOps infrastructure d
 * Centralized monitoring using **Prometheus & Grafana**
 * **Automated RDS backups through Lambda + EventBridge**
 
-The project is designed as a real-world lab suitable for:
-
-* DevOps practice
-* Interview discussion
-* Professional portfolio
-* Cloud & Kubernetes learning
-
 ---
 
 ## 🎯 Architecture Diagram
