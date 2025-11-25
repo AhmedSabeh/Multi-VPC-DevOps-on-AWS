@@ -19,7 +19,8 @@ This project demonstrates a **production-style Multi-VPC DevOps infrastructure d
 
 ## 🎯 Architecture Diagram
 
-<img width="7156" height="3359" alt="AWS Multi-VPC DevOps Infrastructure with Jenkins   EKS   GitOps" src="https://github.com/user-attachments/assets/456f6e73-ed62-4396-9b6f-9313feb7ade5" />
+![AWS Multi-VPC Diagram](aws-multi-vpc-devops-diagram.svg.svg)
+
 
 This architecture includes two main VPCs connected through a Transit Gateway:
 
